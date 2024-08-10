@@ -39,7 +39,7 @@ with col2:
 
 # Navigation logic
 if page == "Home":
-    st.write("Welcome to the Loan Risk Categorization App.")
+    st.write("Welcome to the Loan Risk Categorization App Nikitha .")
     st.write("Use the sidebar to navigate to Adhoc or Batch Profiling.")
 elif page == "Adhoc Risk Profiling":
     st.header("Enter customer details:")
